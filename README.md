@@ -11,7 +11,7 @@ type : -
 <>
 <>
 (bg clr : blue );
-heading / :- (  how to use this code );paragraphs/ :- ( this is my first code vere idk how to use but I want to use this code any how ) ;
+heading / :- (  how to use this code );paragraphs/ :- ( this is my first code vere idk how to use but I am just making my langunge ) ;
 <>
 Img<file.log>file name??</file>
 <>
