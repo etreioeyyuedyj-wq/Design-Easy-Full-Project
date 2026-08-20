@@ -1,0 +1,14 @@
+depf
+<>
+<>
+  // <> typ("DEFP Compiler v0.1/n>
+  <>
+  <> type{"Usage: defpc <file.defp>/n">
+  result();
+<>
+<>
+  <> type pg("DEFP Compiler v0.1/n");
+    printf("Source file: %s/n", argv{1});
+<>
+<>
+/deft
