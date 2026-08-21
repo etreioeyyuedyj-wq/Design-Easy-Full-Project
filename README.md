@@ -30,6 +30,82 @@ heading / :- (  how to use this code );paragraphs/ :- ( this is my first code ve
 <>
 (/deft)
 
+# DEFP
+
+### Design Easy Full Project
+
+> A programming language created from my own ideas.
+
+---
+
+## 🚧 Project Status
+
+**DEFP v0.1 — Work in Progress**
+
+DEFP is an experimental programming language that I am designing
+step by step with its own syntax, rules and structure.
+
+---
+
+## ⭐ What is DEFP?
+
+DEFP is the name and identity of the language.
+
+DEFP itself is not a command or function.
+
+The language is being designed with its own syntax instead of
+simply copying the structure of an existing programming language.
+
+---
+
+## 🔹 Core Syntax
+
+The `<>` structure is a mandatory part of DEFP syntax.
+
+```text
+DEFP
+
+<>
+    ...
+<>
+
+/deft
+
+
+
+Phir neeche ye add kar sakte ho:
+
+```markdown
+---
+
+## 🛠️ Development
+
+DEFP is currently under active development.
+
+Current areas:
+
+- Language specification
+- Syntax design
+- Lexer
+- Parser
+- Compiler
+
+---
+
+## 🎯 Goal
+
+To build a programming language with its own identity,
+syntax and rules.
+
+---
+
+**DEFP v0.1 — Work in Progress**
+
+
+
+
+
+
 Stuck the screen	Stck in scr use ()
 First write :- Defp	Last write :- /deft
 Defp	Design easy full  project
