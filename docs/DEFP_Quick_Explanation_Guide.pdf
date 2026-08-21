@@ -1,0 +1,37 @@
+---
+
+## 📘 DEFP Quick Explanation
+
+### What is DEFP?
+
+DEFP stands for **Design Easy Full Project**.
+
+It is my own experimental programming language project. I am designing its syntax and language rules step by step, and the compiler is still under development.
+
+### Main Syntax Rule
+
+The `<>` structure is mandatory in DEFP syntax.
+
+Without the required `<>` structure, a DEFP program is not considered valid.
+
+### How to Explain DEFP
+
+**English:**
+
+> “DEFP is my own experimental programming language. I designed its name, syntax and basic rules myself. The `<>` structure is mandatory, and I am developing the language and compiler step by step.”
+
+**Hinglish:**
+
+> “DEFP meri khud ki experimental programming language hai. Maine iska naam, syntax aur basic rules khud design kiye hain. Isme `<>` mandatory structure hai. Abhi main language aur compiler ko step by step develop kar raha hoon.”
+
+### If Someone Asks Something I Don't Know
+
+> “I haven't defined or implemented that part yet. DEFP is still under development, so I don't want to give an incorrect answer.”
+
+### Compiler Development
+
+The compiler is still under development. The planned structure is to process DEFP source code through lexical analysis, parsing, and compilation.
+
+---
+
+**DEFP v0.1 — Work in Progress**
